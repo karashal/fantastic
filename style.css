@@ -5,3 +5,8 @@ body {
     text-align: center;
     margin-top: 160px;
 }
+
+::selection {
+	background: #663399;
+	color: #ececec;
+}
